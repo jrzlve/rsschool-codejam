@@ -1,0 +1,22 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "Simple Javascript functions",
+  "main": "sumOfOther.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrzlve/rsschool-codejam"
+  },
+  "author": "Yaraslau Shybeka",
+  "license": "ISC",
+  "homepage": "https://github.com/jrzlve/rsschool-codejam/blob/master/README.md",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0"
+  }
+}
